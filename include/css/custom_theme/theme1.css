@@ -1,0 +1,24 @@
+body.SurveyBody { background-color:#ffffff;background-repeat:repeat;background-position:left top;background-size:cover;background-attachment:fixed;;margin:20px;font-family: Arial}
+h1.SurveyTitle {font-family: Arial; color: #bde7ff; font-size: 40px; font-weight: bold; text-decoration: blink; text-shadow: 5px 5px 5px #FF0000;}
+h3.PageTitle {font-family: Arial; color: #bde7ff; font-size: 30px; font-weight: bold; text-decoration: blink}
+/*div.QuestionNo {font-family: Arial; color: #bde7ff; font-size: 20px; font-weight: bold; text-decoration: blink}*/
+div.Question {background-color: #bde7ff;border-width: 4px;border-style: solid;border-color: #00538a;border-radius: 15px !important;padding: 20px;margin-bottom: 20px;margin-top: 0px;}
+div.QuestionTitle {color: #005c99;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;}
+button.SurveySubmitButton {width: 100px;background-color: #b9e2f8;border-width: 1px;border-style: groove;border-color: #a3a3a3;border-radius: 7px;padding: 8px;color: #000000;font-size: 14px;font-weight: normal;cursor: pointer;text-align: center;}
+.portlet.box > .portlet-title {background-color: #b9e2f8;}
+.portlet.box > .portlet-body {background-color: #b9e2f8;}
+.errorMsg {
+	background-color: #ffffcc;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #ffcc66;
+	border-radius: 0px;
+	padding: 5px;
+	color: #ff0000;
+	font-size: 15px;
+	font-weight: normal;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	background-repeat: no-repeat;
+	padding-left: 25px!important;
+}

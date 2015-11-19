@@ -1,0 +1,47 @@
+body.SurveyBody { background-color:#ffffff;background-repeat:repeat;background-position:left top;background-size:cover;background-attachment:fixed;;margin:20px;font-family: Arial}
+h1.SurveyTitle {font-family: Arial; color: #86b03d; font-size: 40px; font-weight: bold; text-decoration: blink;}
+h3.PageTitle {font-family: Arial; color: #86b03d;; font-size: 30px; font-weight: bold; text-decoration: blink}
+/*div.QuestionNo {font-family: Arial; color: #bde7ff; font-size: 20px; font-weight: bold; text-decoration: blink}*/
+div.Question {background-color: #ffffff;border-width: 0px;border-style: solid;border-color: #000000;border-radius: 8px !important;padding: 20px;margin-bottom: 50px;margin-top: 15px;}
+div.QuestionTitle {color: #86b03d;;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;}
+button.SurveySubmitButton {width: 100px;background-color: #d0ecb1;border-width: 1px;border-style: groove;border-color: #a3a3a3;border-radius: 7px;padding: 8px;color: #000000;font-size: 14px;font-weight: normal;cursor: pointer;text-align: center;}
+.portlet.box > .portlet-title {background-color: #def7c1;}
+.portlet.box > .portlet-body {background-color: #def7c1;}
+#SurveyMainBodyHolder {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.langPos {
+	direction: ltr;
+}
+#SurveyMainBody {
+	background-color: #ffffff;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 15px !important;
+	padding: 20px;
+	margin-top: 25px;
+	margin-bottom: 0px;
+}
+.HR_Seperator {
+	background-color: #7cab2b;
+	height: 6px;
+	line-height: 1px;
+}
+.errorMsg {
+	background-color: #ffffcc;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #ffcc66;
+	border-radius: 0px;
+	padding: 5px;
+	color: #ff0000;
+	font-size: 15px;
+	font-weight: normal;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	background-repeat: no-repeat;
+	padding-left: 25px!important;
+}
